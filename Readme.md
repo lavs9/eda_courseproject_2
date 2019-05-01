@@ -207,8 +207,12 @@ ggsave("plot4.png",plot = plot4)
 dev.off()
 ```
 
-![plot of chunk plot4](plot4.png) \#\# Question 5 How have emissions
-from motor vehicle sources changed from 1999–2008 in Baltimore City?
+![plot of chunk plot4](plot4.png)
+
+## Question 5
+
+How have emissions from motor vehicle sources changed from 1999–2008 in
+Baltimore City?
 
 ``` r
 # subset baltimore data for motor vehicles
